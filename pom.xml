@@ -10,6 +10,7 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
+
     <name>${project.groupId}:${project.artifactId}</name>
     <description>This package contains a Java Bot Echo.</description>
     <url>http://maven.apache.org</url>
